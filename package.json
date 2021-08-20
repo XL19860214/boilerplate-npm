@@ -4,6 +4,7 @@
   "description": "Managing packages with npm.",
   "keywords": [ "freecodecamp", "Xuwei Li", "XL19860214" ],
   "license": "MIT",
+  "version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
